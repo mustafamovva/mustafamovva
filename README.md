@@ -12,10 +12,10 @@ I build complete, production-ready web apps from scratch — **SaaS · Dashboard
 ---
 
 ### 🛠️ Tech Stack
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS
-**Backend:** Node.js · Express · Laravel · Firebase
-**Database:** MySQL · MongoDB · Firestore
-**Other:** REST APIs · WebRTC · Git
+- **Frontend:** Next.js · React · TypeScript · Tailwind CSS
+- **Backend:** Node.js · Express · Laravel · Firebase
+- **Database:** MySQL · MongoDB · Firestore
+- **Other:** REST APIs · WebRTC · Git
 
 ---
 
@@ -29,4 +29,4 @@ I build complete, production-ready web apps from scratch — **SaaS · Dashboard
 ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafamovva&show_icons=true&theme=tokyonight)
 
 ### 🔗 Connect
-[LinkedIn](https://www.linkedin.com/in/mustafa-mahmoud-198850372/) · [Email](mailto:mustafamovva@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mustafa-movva/) · [Email](mailto:mustafamovva@gmail.com)
