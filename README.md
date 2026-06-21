@@ -8,6 +8,7 @@ I build complete, production-ready web apps from scratch — **SaaS · Dashboard
 - 🌱 Sharing my journey — from code to production
 - 📍 Giza, Egypt · 💼 Open to freelance & opportunities
 - 📫 Reach me: **mustafamovva@gmail.com**
+- 🌐 Portfolio: **[mustafamovva.vercel.app](https://mustafamovva.vercel.app)**
 
 ---
 
@@ -29,4 +30,4 @@ I build complete, production-ready web apps from scratch — **SaaS · Dashboard
 ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafamovva&show_icons=true&theme=tokyonight)
 
 ### 🔗 Connect
-[LinkedIn](https://www.linkedin.com/in/mustafa-movva/) · [Email](mailto:mustafamovva@gmail.com)
+[Portfolio](https://mustafamovva.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mustafa-movva/) · [Email](mailto:mustafamovva@gmail.com)
