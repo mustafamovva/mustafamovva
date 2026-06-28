@@ -13,16 +13,14 @@ I build complete, production-ready web apps from scratch — **SaaS · Dashboard
 ---
 
 ### 🛠️ Tech Stack
-- **Frontend:** Next.js · React · TypeScript · Tailwind CSS
-- **Backend:** Node.js · Express · Laravel · Firebase
-- **Database:** MySQL · MongoDB · Firestore
-- **Other:** REST APIs · WebRTC · Git
+- **Frontend:** Next.js (App Router, Server Components) · React · TypeScript · Tailwind CSS
+- **Backend / CMS:** Node.js · Express · Laravel · Payload CMS · REST APIs
+- **Databases:** PostgreSQL · MySQL · MongoDB · Firestore
+- **Infra:** Cloudflare (CDN, R2) · Git · CI/CD · VPS
 
 ---
 
-### 🚀 Featured Work
-- **🕌 Eaalim Platform** — An EdTech platform teaching Quran to 700+ families across 15+ countries. Led full-stack development: a custom WebRTC video classroom, an interactive Quran, and a full CMS. → [eaalim.com](https://eaalim.com)
-- **📝 Note-Taking App** — Internal team tool built with Next.js, Firebase Auth, Firestore & Tailwind. → [View repo](https://github.com/mustafamovva/Note-Next.js)
+- **🕌 Eaalim Platform** — A multilingual education platform (EN/AR/FR) built with Next.js 15, React 19, TypeScript, and a Payload + PostgreSQL headless CMS. Features an interactive Quran reader, multi-layer caching, and full security hardening. Serves 700+ families across 15+ countries. → [eaalim.com](https://eaalim.com)
 
 ---
 
